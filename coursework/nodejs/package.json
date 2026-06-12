@@ -1,0 +1,16 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --env-file=.env server2.js"
+  },
+  "keywords": [],
+  "author": "Aaro Rissanen",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
